@@ -1,0 +1,28 @@
+p {
+    /* here we see our font family being times new roman, anf then falling back to times, then to a serif font */
+    font-family: 'Times New Roman'; Times, serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+dt {
+    font-weight: bold;
+
+    font-size: 20px;
+
+    margin-top: 1rem;
+}
+
+#family {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#size {
+    font-size: x-large;
+}
+
+#weight {
+    font-weight: bold;
+}
