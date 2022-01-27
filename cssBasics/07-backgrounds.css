@@ -1,0 +1,30 @@
+.wrapper {
+    margin: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.background-one {
+    background-color: blue;
+    padding: 7px;
+}
+
+.background-one p {
+    color: white;
+}
+
+.background-two {
+    background-image: url("../assets/upfeathers.png");
+
+    padding: .5em 1em;
+}
+
+.rainbow-container {
+        background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet););
+}
